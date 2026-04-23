@@ -1,0 +1,123 @@
+[
+  {
+    "id": "h1",
+    "name": "AIIMS New Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "lat": 28.5672,
+    "lng": 77.2100,
+    "speciality": ["kidney_disease", "cancer", "heart_disease", "trauma", "mental_health", "eye_disease", "diabetes"],
+    "timings": "OPD: Mon-Sat, 8AM-1PM",
+    "phone": "011-26588500"
+  },
+  {
+    "id": "h2",
+    "name": "Safdarjung Hospital",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "lat": 28.5685,
+    "lng": 77.2036,
+    "speciality": ["trauma", "maternity", "child_health", "kidney_disease", "tuberculosis"],
+    "timings": "OPD: Mon-Sat, 8AM-2PM",
+    "phone": "011-26707444"
+  },
+  {
+    "id": "h3",
+    "name": "Ram Manohar Lohia Hospital",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "lat": 28.6234,
+    "lng": 77.2098,
+    "speciality": ["diabetes", "heart_disease", "mental_health", "maternity", "cancer"],
+    "timings": "OPD: Mon-Sat, 9AM-1PM",
+    "phone": "011-23365525"
+  },
+  {
+    "id": "h4",
+    "name": "King George's Medical University (KGMU)",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "lat": 26.8641,
+    "lng": 80.9195,
+    "speciality": ["kidney_disease", "cancer", "heart_disease", "trauma", "tuberculosis"],
+    "timings": "OPD: Mon-Sat, 8AM-2PM",
+    "phone": "0522-2257540"
+  },
+  {
+    "id": "h5",
+    "name": "RMLIMS Lucknow",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "lat": 26.8456,
+    "lng": 80.9462,
+    "speciality": ["diabetes", "mental_health", "maternity", "child_health", "eye_disease"],
+    "timings": "OPD: Mon-Sat, 9AM-1PM",
+    "phone": "0522-4940300"
+  },
+  {
+    "id": "h6",
+    "name": "Patna Medical College & Hospital (PMCH)",
+    "state": "Bihar",
+    "city": "Patna",
+    "lat": 25.6122,
+    "lng": 85.1426,
+    "speciality": ["kidney_disease", "cancer", "tuberculosis", "maternity", "trauma"],
+    "timings": "OPD: Mon-Sat, 8AM-1PM",
+    "phone": "0612-2300460"
+  },
+  {
+    "id": "h7",
+    "name": "IGIMS Patna",
+    "state": "Bihar",
+    "city": "Patna",
+    "lat": 25.6093,
+    "lng": 85.1376,
+    "speciality": ["heart_disease", "diabetes", "child_health", "mental_health", "eye_disease"],
+    "timings": "OPD: Mon-Sat, 9AM-2PM",
+    "phone": "0612-2297631"
+  },
+  {
+    "id": "h8",
+    "name": "SMS Hospital Jaipur",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "speciality": ["trauma", "heart_disease", "cancer", "kidney_disease", "eye_disease"],
+    "timings": "OPD: Mon-Sat, 9AM-2PM",
+    "phone": "0141-2518888"
+  },
+  {
+    "id": "h9",
+    "name": "JK Lon Hospital Jaipur",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "lat": 26.9165,
+    "lng": 75.8034,
+    "speciality": ["child_health", "maternity", "tuberculosis", "diabetes"],
+    "timings": "24 Hours Emergency | OPD: 9AM-1PM",
+    "phone": "0141-2565012"
+  },
+  {
+    "id": "h10",
+    "name": "Rajiv Gandhi Government General Hospital",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "speciality": ["kidney_disease", "diabetes", "tuberculosis", "maternity", "cancer"],
+    "timings": "OPD: Mon-Sat, 8AM-1PM",
+    "phone": "044-25305000"
+  },
+  {
+    "id": "h11",
+    "name": "Government Stanley Medical College Hospital",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "lat": 13.1085,
+    "lng": 80.2888,
+    "speciality": ["trauma", "heart_disease", "child_health", "mental_health", "eye_disease"],
+    "timings": "OPD: Mon-Sat, 8AM-2PM",
+    "phone": "044-25281200"
+  }
+]
